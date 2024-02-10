@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "self",
+  "avatar": "eGEjjeGaibdasj5aa",
+  "preferredColor": "indigo",
+  "language": "python.3",
+  "game": "table-tennis",
+  "run": "python3 -u ./main.py"
+}
